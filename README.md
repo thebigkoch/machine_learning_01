@@ -24,7 +24,7 @@ To setup the virtual environment, run:
 
 ## Results
 
-The current polynomial model does not accurately predict the exponential results of the equation.  For reference:
+The current polynomial model does not accurately predict the exponential results of the actual equation.  For reference:
 
 ```
 Actual = $9,375.00, Predicted = $2,305.64
@@ -36,3 +36,5 @@ Actual = $150,000.00, Predicted = $3,678.58
 Actual = $67,500.00, Predicted = $16,492.53
 Actual = $675,000.00, Predicted = $16,492.44
 ```
+
+This problem will be valuable to re-visit later, when I know how to configure the model and layers for an exponential fit.
