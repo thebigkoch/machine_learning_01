@@ -22,3 +22,17 @@
 To setup the virtual environment, run:
   > `poetry install`
 
+## Results
+
+The current polynomial model does not accurately predict the exponential results of the equation.  For reference:
+
+```
+Actual = $9,375.00, Predicted = $2,305.64
+Actual = $93,750.00, Predicted = $2,305.64
+Actual = $11,250.00, Predicted = $2,763.28
+Actual = $112,500.00, Predicted = $2,763.29
+Actual = $15,000.00, Predicted = $3,678.56
+Actual = $150,000.00, Predicted = $3,678.58
+Actual = $67,500.00, Predicted = $16,492.53
+Actual = $675,000.00, Predicted = $16,492.44
+```
